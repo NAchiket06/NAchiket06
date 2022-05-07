@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Making enemies more responsive in Unreal Engine.](https://github.com/NAchiket06/Unreal-Wukong)
 
-- 🌱 I’m currently learning **Unreal Engine**
-
 - 👨‍💻 See my portfolio [https://nachiket06.github.io/NachiketJadhav/](https://nachiket06.github.io/NachiketJadhav/)
 
 - 📫 Any Queries? **nachiketjadhav0606@gmail.com**
