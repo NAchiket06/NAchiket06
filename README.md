@@ -1,11 +1,11 @@
 <h1 align="center">cout<< Nachiket Jadhav;</h1>
 <h3 align="center">I'll let my repos tell my story.</h3>
 
-- 🔭 I’m currently working on [Making enemies more responsive in Unreal Engine.](https://github.com/NAchiket06/Unreal-Wukong)
+- 🔭 I’m currently working as a Game Developer at Codroid Studios.
 
 - 👨‍💻 See my portfolio [https://nachiket06.github.io/NachiketJadhav/](https://nachiket06.github.io/NachiketJadhav/)
 
-- 📫 Any Queries? **nachiketjadhav0606@gmail.com**
+- 📫 Any Queries? **nachiketjadhav0606@gmail.com** or **codroid.nachiket@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
