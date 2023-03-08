@@ -1,7 +1,7 @@
 <h1 align="center">cout<< Nachiket Jadhav;</h1>
 <h3 align="center">I'll let my repos tell my story.</h3>
 
-- 🔭 I’m currently working as a Game Developer at Codroid Studios.
+- 🔭 I’m currently working as a Game Developer at [Fifty Five Technologies](https://www.fiftyfivetech.io/).
 
 - 👨‍💻 See my portfolio [https://nachiket06.github.io/NachiketJadhav/](https://nachiket06.github.io/NachiketJadhav/)
 
